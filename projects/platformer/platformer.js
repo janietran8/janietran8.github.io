@@ -40,10 +40,11 @@ $(function () {
     // example usage: createPlatform(x,y,width,height)
 createPlatform(10, 650, 200, 100); // short but wide platform located 500 pixels from the left of the screen and 300 pixels from the top of the screen
 createPlatform(500,200, 200, 20); // short but wide platform located 500 pixels from the left of the screen and 300 pixels from the top of the screen
-createPlatform(100, 200, 200, 20); // short but wide platform located 500 pixels from the left of the screen and 300 pixels from the top of the screen
-createPlatform(900, 500, 200, 20); // short but wide platform located 500 pixels from the left of the screen and 300 pixels from the top of the screen
-createPlatform(1000, 100, 200, 20); // short but wide platform located 500 pixels from the left of the screen and 300 pixels from the top of the screen
-createPlatform(500, 300, 200, 20); // short but wide platform located 500 pixels from the left of the screen and 300 pixels from the top of the screen
+createPlatform(100, 68, 200, 20); // short but wide platform located 500 pixels from the left of the screen and 300 pixels from the top of the screen
+createPlatform(100, 400, 200, 20); // short but wide platform located 500 pixels from the left of the screen and 300 pixels from the top of the screen
+createPlatform(1000, 900, 200, 20); // short but wide platform located 500 pixels from the left of the screen and 300 pixels from the top of the screen
+createPlatform(500, 700, 200, 20); // short but wide platform located 500 pixels from the left of the screen and 300 pixels from the top of the screen
+createPlatform(600, 900, 200, 20); // short but wide platform located 500 pixels from the left of the screen and 300 pixels from the top of the screen
 
 
     // TODO 2
